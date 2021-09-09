@@ -35,6 +35,7 @@ group :development do
   gem "rerun"
 
   gem "pry"
+  gem 'json'
 end
 
 # These gems will only be used when we are running tests
